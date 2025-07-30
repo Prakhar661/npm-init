@@ -1,0 +1,9 @@
+npm init
+
+npm install react
+
+npm instal react-dom
+
+npm install-D parcel
+
+npx parcel index.html
